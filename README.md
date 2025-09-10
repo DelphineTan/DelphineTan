@@ -34,4 +34,4 @@ My objective is to build a career in digital forensics and incident response, wh
   - [SOC Level 1 (TryHackMe)](https://google.com) – SIEM, log analysis, and incident response labs  
 - **CTF Writeups**
 - **Workshops**
-  - [Range Village September Range Weekend](https://google.com) - Hands-on workshop focused on Active Directory security, incident response, and threat hunting scenarios.
+  - [Range Village September Range Weekend](https://github.com/DelphineTan/Workshops/tree/main/Range%20Village%20-%20September%20Range%20Weekend) - Hands-on workshop focused on Active Directory security, incident response, and threat hunting scenarios.
