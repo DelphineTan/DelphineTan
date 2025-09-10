@@ -25,8 +25,9 @@ My objective is to build a career in digital forensics and incident response, wh
 
 ## Certifications
 <div>
-  <img src="https://img.shields.io/badge/Professional%20Scrum%20Master%20I-000080?&style=for-the-badge&logo=scrumalliance&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security%2B%20(Expected%20Oct%202025)-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/Professional%20Scrum%20Master%20I-000080?&style=for-the-badge&logo=scrumalliance&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/Security%2B%20(Expected%20Oct%202025)-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## CTFs, Labs & Workshops
