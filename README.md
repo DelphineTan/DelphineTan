@@ -40,7 +40,7 @@ My objective is to build a career in digital forensics and incident response, wh
     <summary>CVE Research Writeups</summary>
     
   - [CVE-2021-3560: Polkit Local Privilege Escalation](https://github.com/DelphineTan/CVE-Research-Writeups/tree/main/CVE-2021-3560:%20Polkit%20Local%20Privilege%20Escalation)
-  - Dirty Cow
+  - [CVE-2022-0847: Dirty Pipe](https://github.com/DelphineTan/CVE-Research-Writeups/tree/main/CVE-2022-0847:%20Dirty%20Pipe)
 </details>
 
 <details>
