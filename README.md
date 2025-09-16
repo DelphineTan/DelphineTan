@@ -23,12 +23,6 @@ My objective is to build a career in digital forensics and incident response, wh
 
 ## CTFs, Labs & Workshops
 <details>
-    <summary>Learning Paths</summary>
-    
-  - [SOC Level 1 (TryHackMe)](https://google.com) – SIEM, log analysis, and incident response labs
-</details>
-
-<details>
     <summary>Workshops</summary>
     
   - [Range Village September Range Weekend](https://github.com/DelphineTan/Workshops/tree/main/Range%20Village%20-%20September%20Range%20Weekend) - Hands-on Active Directory workshop with CTF-style challenges, focusing on Kerberoasting, BloodHound, and AD attack paths.
@@ -43,7 +37,3 @@ My objective is to build a career in digital forensics and incident response, wh
   - [CVE-2022-0847: Dirty Pipe](https://github.com/DelphineTan/CVE-Research-Writeups/tree/main/CVE-2022-0847:%20Dirty%20Pipe)
 </details>
 
-<details>
-    <summary>CTF Writeups</summary>
-    
-</details>
